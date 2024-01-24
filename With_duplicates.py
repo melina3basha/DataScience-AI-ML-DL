@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Test Project Data Science Vacancy: Housing Price
+# # Project Data Science: Housing Price in USA
 # ## Prepared by Melina BASHA
 
 # In[1]:
